@@ -13,7 +13,7 @@ c++ 기초
 
 <div align=center>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iyeongg9@gmail.com)](mailto:iyeongg9@gmail.com)
-  </div>
+</div>
 
 
 <!--
