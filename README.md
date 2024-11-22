@@ -10,7 +10,7 @@ c++ 기초
 
 
 ## 연락처
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iyeongg9@gmail.com)](mailto:iyeongg9@gmail.com)
 
 
 <!--
