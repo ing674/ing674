@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 	
   </div>
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/apiing674=ing674)](https://github.com/anuraghazra/github-readme-stats)   
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/apiing674=username)](https://github.com/anuraghazra/github-readme-stats)   
   
                                                                     
