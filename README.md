@@ -1,5 +1,21 @@
 ## 소개
 
+예술공학대학 24학번 김이영 
+
+## 기술 스택
+python 기초
+c++ 기초
+
+## 프로젝트
+
+
+## 연락처
+
+<div align=center>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iyeongg9@gmail.com)](mailto:iyeongg9@gmail.com)
+  </div>
+
+
 <!--
 
 **ing674/ing674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
