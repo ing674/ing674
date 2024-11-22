@@ -1,4 +1,6 @@
 ## 소개
+GitHub : https://github.com/ing674
+Mail: iyeongg9@gmail.com
 
 예술공학대학 24학번 김이영 
 
@@ -7,7 +9,11 @@ python 기초
 c++ 기초
 
 ## 프로젝트
-
+|프로젝트 명 | 기간 | 역할 | 설명 |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 ## 연락처
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iyeongg9@gmail.com)](mailto:iyeongg9@gmail.com)
