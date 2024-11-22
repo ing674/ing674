@@ -1,5 +1,6 @@
 ## 소개
 GitHub : https://github.com/ing674
+
 Mail: iyeongg9@gmail.com
 
 예술공학대학 24학번 김이영 
